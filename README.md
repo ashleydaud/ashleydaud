@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashleydaud
 - 👀 I’m interested in Data and Technology.
-- 🌱 I’m currently a masters student in Data Science 
+- 🌱 I’m currently a Masters student in Data Science 
 - 💞️ I’m looking to collaborate on  any tasks as i amm new to GitHub and would love to learn.
 - 📫 How to reach me is through LinkedIn or by email 
 - 😄 Pronouns: She/JHer 
